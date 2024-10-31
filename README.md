@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I'm Manar Maazi, a passionate Full-Stack Developer with 4 years of experience in creating modern, efficient web applications. I specialize in React.js, Tailwind CSS, Laravel, and Spring Boot, building dynamic and responsive web solutions.<br><br>🌍 Based in Morocco, I focus on delivering seamless user experiences and maintainable code, and I'm constantly expanding my skill set with the latest technologies. Whether it's front-end development with React or back-end APIs with PHP and Java, I enjoy tackling complex challenges and contributing to open-source projects.<br><br>💻 My recent work includes projects like a payroll management application built with React and Spring Boot, as well as e-commerce and portfolio websites. I also have experience in SEO, database management, and web development using WordPress.<br><br>📫 Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities. Let's build something amazing together!
+<br>👋 Hi, I'm Manar Maazi.<br><br>💻I am eager to learn everything that comes my way .<br><br>📫 Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities. Let's build something amazing together!
 
 
 ## 🌐 Socials:
